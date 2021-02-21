@@ -1,0 +1,241 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(./pexels-ovan-57690.jpg);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-position: center;
+  background-size: cover;
+  margin: 100px;
+  height: 900px;
+}
+.reg__form {
+  width: 800px;
+  background-color: rgb(0, 0, 0, 0.6);
+  margin: auto;
+  color: #fceded;
+  padding: 10px 4px 10px 8px;
+  text-align: center;
+  border-radius: 12px 12px 12px 12px;
+}
+.main {
+  background-color: rgb(0, 0, 0, 0.6);
+  width: 800px;
+  margin: auto;
+  color: #fceded;
+}
+#username {
+  width: 100%;
+  height: 100px;
+  padding-left: 5px;
+  padding-top: 15px;
+}
+.name {
+  font-size: 15px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 125px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+.firstname {
+  position: relative;
+  left: 200px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+  top: -37px;
+}
+.lastname {
+  position: relative;
+  left: 415px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0px 22px;
+  font-size: 16px;
+  top: -80px;
+}
+.firstlabel {
+  position: relative;
+  left: 203px;
+  top: -45px;
+  text-transform: capitalize;
+  font-size: 14 px;
+}
+.lastlabel {
+  position: relative;
+  left: 185px;
+  top: -45px;
+  text-transform: capitalize;
+  font-size: 14 px;
+}
+#clubname {
+  left: 180px;
+  top: -27px;
+  width: 125px;
+  margin: 0px;
+  font-size: 25px;
+  padding-left: 5px;
+}
+.club {
+  position: relative;
+  left: 200px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+  top: -40px;
+}
+#inst__email {
+  font-size: 25px;
+  margin: 0px;
+  padding-left: 5px;
+}
+.email {
+  position: relative;
+  left: 200px;
+  line-height: 40px;
+  border-radius: 6px;
+  padding: 0 22px;
+  font-size: 16px;
+  top: -45px;
+}
+#cont-no {
+  font-size: 25px;
+  margin: 0px;
+  padding-left: 5px;
+}
+.code {
+  position: relative;
+  left: 200px;
+  line-height: 20px;
+  border-radius: 3px;
+  padding: 0 5px;
+  font-size: 8px;
+  top: -40px;
+}
+.area-code {
+  font-size: 16px;
+  margin: 100px;
+  position: relative;
+  top: -12px;
+  left: -15px;
+}
+.number {
+  position: relative;
+  left: 100px;
+  line-height: 20px;
+  border-radius: 3px;
+  padding: 0 60px;
+  font-size: 8px;
+  top: -45px;
+  left: 120px;
+}
+.contact_number {
+  font-size: 16px;
+  margin: 100px;
+  position: relative;
+  top: -40px;
+  left: 420px;
+}
+#join{
+  
+  line-height: 20px;
+  padding: 0 20px;
+  font-size: 20px;
+  top: -50px;
+  left: 0px;
+  margin: 5px;
+}
+#join-label {
+  font-size: 16px;
+  margin: 100px;
+  position: relative;
+  top: -140px;
+  left: 210px;
+  line-height: 30px;
+  border-radius: 6px;
+  padding: 0 100px;
+  
+}
+.exp {
+  font-size: 22px;
+  margin: 0px;
+  position: relative;
+  top: -220px;
+  left: 10px;
+}
+/* .radio input {
+  display: block;
+  margin: -100px 0px 0px -100px;
+  text-align: center;
+  border-radius: 12px;
+  border: 2px solid #336666;
+  padding: 14px 110px;
+  outline: none;
+  cursor: pointer;
+  transition: 0.25px; */
+}
+#answ {
+    font-size: 16px;
+    margin: 10px;
+    
+    top: 100px;
+    left: 5px;
+    line-height: 30px;
+    border-radius: 5px;
+    padding: 0 200px;
+  }
+.expr  {
+ top: 40px;   
+}
+.submit-button {
+    left: 20px;
+    margin: -230px;
+    margin-top: auto;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(250, 225, 225);
+    background-color: rgba(13, 13, 85, 0.404);
+}
+.exp_er {
+  top: 45px;
+  padding: 0px;
+}
+/* .clubpart {
+  display: inline-block;
+} */
+.team {
+  display: inline-block;
+  text-align: center;
+  
+  padding-left: 8px;
+  right: 2px;
+}
+#club_part {
+  margin: auto;
+  padding-left: 5px;
+}
+#dep {
+  margin: auto;
+  padding-bottom: 15px;
+  height: auto;
+  font-size: 15px;
+  text-align: 35px;
+}
+.jnt {
+  padding-top: 35px;
+}
+.dep-ar {
+  font-size: 25px;
+  margin: 5px;
+  font-weight: bold;
+  margin-right: 65px;
+}
+#joine {
+  margin: 5px;
+}
+.frm-s {
+  width: fit-content;
+}
